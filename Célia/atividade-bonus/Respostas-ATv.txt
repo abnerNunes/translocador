@@ -1,0 +1,8 @@
+1. A interface seria o ideal para essa situação, pois nem todos os funcionários recebem o bônus, 
+apenas professores e cordenadores, então seria errado classificar todos os funcionáros com esse método.
+
+2. Apenas um list, pois ambos os tipos (Professor e Coordenador) são passíveis de receber bonus, 
+então criamos apenas uma lista do tipo "receptível".
+
+3. Sim, já que Professores e Coordenadores possuem o calculo de bonus, porem o mesmo varia de 
+valor entre eles.
